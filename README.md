@@ -21,6 +21,10 @@ NO USAGE... yet.
 [Wikipedia entry on Persistent Data Structure](http://en.wikipedia.org/wiki/Persistent_data_structure)
 [Clojure is my favrorite Ruby](http://www.youtube.com/watch?v=PCdEbUBk6a0)
 [Directed Acyclic Graph in Clojure](https://gist.github.com/3111539)
+[Lisp Books translated into Clojure](http://juliangamble.com/blog/2012/07/13/amazing-lisp-books-living-again-in-clojure/)
+[Real time processing with Clojure and Java](https://github.com/nathanmarz/storm)
+[Stuart Halloway's Case for Clojure](http://thinkrelevance.com/blog/2009/10/19/the-case-for-clojure)
+[Brian's brain in Clojure](http://www.bestinclass.dk/index.clj/2009/10/brians-functional-brain.html)
 
 ## License
 
