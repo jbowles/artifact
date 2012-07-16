@@ -1,6 +1,6 @@
 # artifact
 
-Still learning clojure. This is a collection of code related to Artificial Intelligence, Machine Learning, Natural Language Processing, and Algorithms.
+**Still learning clojure**. This is a collection of code related to Artificial Intelligence, Machine Learning, Natural Language Processing, and Algorithms. Most of the code here is taken from or inspired by tutorials; credit and references are given at the top of each file.
 
 ## Usage
 
@@ -25,9 +25,10 @@ NO USAGE... yet.
 [Real time processing with Clojure and Java](https://github.com/nathanmarz/storm)
 [Stuart Halloway's Case for Clojure](http://thinkrelevance.com/blog/2009/10/19/the-case-for-clojure)
 [Brian's brain in Clojure](http://www.bestinclass.dk/index.clj/2009/10/brians-functional-brain.html)
+[Jan Aerts' Clojure for Stanford/Coursera Machine Learning Course](https://github.com/jandot/stanford-ml-class)
 
 ## License
 
-Copyright (C) 2012 Joshua Bowles
+Copyright (C) 2012 Nobody
 
 Distributed under the Eclipse Public License, the same as Clojure.
