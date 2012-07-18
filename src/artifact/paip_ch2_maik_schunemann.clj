@@ -57,6 +57,7 @@
    :verb-phrase [:Verb :noun-phrase :PP*]
    :PP* #{[] [:PP :PP*]}
    :Adj* #{[] [:Adj :Adj*]}
+   :PP [:Prep :noun-phrase]
    :Prep #{"to" "in" "by" "with" "on"}
    :Adj #{"big" "little" "blue" "green" "unseemly"}
    :Article #{"the" "a"}
@@ -68,7 +69,7 @@
 
 ;; dynamic global reference for our grammars
 (def ^:dynamic *s-grammar* simple-grammar)
-(def ^:dynamic *b-grammar* big-grammar)
+(def ^:dynamic *grammar* big-grammar)
 
 (defn generate [phrase]
   (cond
@@ -91,6 +92,8 @@
 
 (generate-all :sentence)
 (def random-sent (take 10 (repeatedly #(generate-all :sentence))))
+(take 10 (repeatedly #(generate-all :sentence)))
+random
 (class (first random-sent))
 (last random-sent)
 (count random-sent)

@@ -26,6 +26,8 @@ NO USAGE... yet.
 [Stuart Halloway's Case for Clojure](http://thinkrelevance.com/blog/2009/10/19/the-case-for-clojure)
 [Brian's brain in Clojure](http://www.bestinclass.dk/index.clj/2009/10/brians-functional-brain.html)
 [Jan Aerts' Clojure for Stanford/Coursera Machine Learning Course](https://github.com/jandot/stanford-ml-class)
+[GATE extensions to support Clojure and Ruby](https://github.com/tokenmill/JVMLanguages-GATE)
+[Clojure bindings for GATE](https://github.com/zmedelis/clojure-libs/tree/master/gate)
 
 ## License
 
