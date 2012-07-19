@@ -3,4 +3,5 @@
   :dependencies [[org.clojure/clojure "1.4.0"]
                  [clojure-opennlp "0.1.10"]
                  [incanter "1.3.0"]
-                 [twitter-api "0.6.10"]])
+                 [twitter-api "0.6.10"]
+                 [com.novemberain/welle "1.1.0"]])
