@@ -28,6 +28,7 @@ NO USAGE... yet.
 * [Jan Aerts' Clojure for Stanford/Coursera Machine Learning Course](https://github.com/jandot/stanford-ml-class)
 * [GATE extensions to support Clojure and Ruby](https://github.com/tokenmill/JVMLanguages-GATE)
 * [Clojure bindings for GATE](https://github.com/zmedelis/clojure-libs/tree/master/gate)
+* [Riak with Clojure](http://mmcgrana.github.com/2010/08/riak-clojure.html)
 
 ## License
 
